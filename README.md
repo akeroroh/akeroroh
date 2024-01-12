@@ -4,6 +4,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akeroroh)](https://github.com/akeroroh)
 
+![다운로드 (1)](https://github.com/akeroroh/akeroroh/assets/156268545/a164a5f0-a113-40f2-b6c6-53fb0e161184)
+
 <!--
 **akeroroh/akeroroh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
