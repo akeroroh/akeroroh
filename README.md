@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akeroroh)](https://github.com/akeroroh)
+
 <!--
 **akeroroh/akeroroh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
